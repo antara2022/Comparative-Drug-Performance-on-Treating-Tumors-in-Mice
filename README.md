@@ -44,7 +44,8 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 - Create a list that holds the treatment names as well as a second, empty list to hold the tumor volume data
 - Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment
 - Append the resulting final tumor volumes for each drug to the empty list
-- Determine outliers by using the upper and lower bounds Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group
+- Determine outliers by using the upper and lower bounds
+- Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group
   - Highlight any potential outliers in the plot by changing their color and style
 
 ![image](https://github.com/antara2022/Comparative-Drug-Performance-on-Treating-Tumors-in-Mice/assets/112270155/db95df3a-00e2-4809-8ade-e1c223c93b4c)
